@@ -206,7 +206,7 @@ widgets:
         # Author's current location
         location: Wuhu China
         # URL or path to the avatar image
-        avatar: img/avatar.png
+        avatar: https://raw.githubusercontent.com/PureKitS/hexo_pictures_source/main/mao.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
